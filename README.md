@@ -57,7 +57,7 @@ Release Date | Jun 14, 2024
 
 # troubleshooting
 
-# Fix for 0 Mb or Bootloop in PBRP Duchamp
+# Fix for 0 Mb or Bootloop in SHRP Duchamp
 
 
 •Note : This will wipe/format your Data portion and your data will be reset.
