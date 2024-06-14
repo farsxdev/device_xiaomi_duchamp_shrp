@@ -9,7 +9,7 @@ CHIPSET | Mediatek Dimensity 8300 Ultra (4nm)
 GPU     | Arm Mali-G615 MC6
 Memory  | 8GB - 12GB
 Shipped Android Version | 14
-Storage | 256 GB UFS 4.0 + MCQ
+Storage | 256 - 512 GB UFS 4.0 + MCQ
 Battery | Li-Po 5000 mAh, non-removable
 
 
